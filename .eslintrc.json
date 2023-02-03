@@ -4,6 +4,8 @@
     "next/core-web-vitals"
   ],
   "rules": {
-    "space-before-function-paren": "off"
+    "space-before-function-paren": "off",
+    "no-undef": "off",
+    "array-callback-return": "off"
   }
 }

@@ -1,34 +1,32 @@
 {
-  "name": "Pierce Novoa",
-  "avatar": "https://pbs.twimg.com/profile_images/1620486066120671238/ms83_BPX_400x400.jpg",
+  "name": "@piercenovo.dev",
+  "avatar": "https://pbs.twimg.com/profile_images/1621271412643188738/Ykehn38E_400x400.jpg",
   "links": [
     {
       "title": "My Portfolio",
-      "url": "https://www.twitter.com/piercenovodev",
-      "image": "https://pbs.twimg.com/profile_images/1620486066120671238/ms83_BPX_400x400.jpg"
+      "href": "https://www.twitter.com/piercenovodev"
     },
     {
       "title": "Github",
-      "url": "https://www.github.com/piercenovo",
-      "image": "https://avatars.githubusercontent.com/u/68754476?s=400&u=4f80c27cd81c87c5c219346cb4a491dca77b37c9&v=4"
+      "href": "https://www.github.com/piercenovo"
+    },
+    {
+      "title": "Spotify",
+      "href": "https://open.spotify.com/user/s2jq4dk2wzz2afmvpudel5dba?si=47805787c6a54540&nd=1"
     }
    ],
    "socials": [
     {
       "title": "Twitter",
-      "url": "https://www.twitter.com/piercenovodev"
+      "href": "https://www.twitter.com/piercenovodev"
     },
     {
       "title": "Instagram",
-      "url": "https://www.instagram.com/piercenovo.dev"
+      "href": "https://www.instagram.com/piercenovo.dev"
     },
     {
       "title": "LinkedIn",
-      "url": "https://www.linkedin.com/in/piercenovoa"
-    },
-    {
-      "title": "Facebook",
-      "url": "https://www.facebook.com/piercenovo"
+      "href": "https://www.linkedin.com/in/piercenovoa"
     }
    ]
 }
