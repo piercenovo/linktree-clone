@@ -3,6 +3,7 @@ import data from '../data.json'
 import { InstagramIcon } from '../components/instagram-icon'
 import { LinkedinIcon } from '../components/linkedin-icon'
 import { TwitterIcon } from '../components/twitter-icon'
+import { LinkCard } from '../components/link-card'
 
 export default function Home() {
   return (
@@ -33,7 +34,9 @@ export default function Home() {
           }
         })}
       </div>
-
+      {data.links.map((link) => (
+        <LinkCard key={link.href} {...link} />
+      ))}
     </div>
   )
 }
