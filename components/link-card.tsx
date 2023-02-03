@@ -20,7 +20,6 @@ export default function LinkCard ({
         <div className='w-12 h-12'>
           {image && (
             <Image
-              className='rounded-sm'
               alt={title}
               src={image}
               width={50}
