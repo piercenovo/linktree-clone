@@ -7,6 +7,8 @@ import { get } from '@vercel/edge-config'
 import LinkCard from '@/components/link-card'
 import { Data, Link, Social } from './interface'
 
+export const dynamic = 'force-dynamic'
+
 export default async function Home() {
   const data: Data | undefined = await get('linktree')
 
