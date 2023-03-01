@@ -56,7 +56,7 @@
 <!-- CONTACT -->
 ## 🔎 Contact
 
-- Website - [www.piercenovo.dev](https://www.piercenovo.dev)
+- Website - [linktr.piercenovo.dev](https://linktr.piercenovo.dev)
 - Github - [@piercenovo](https://github.com/piercenovo)
 - LinkedIn - [@piercenovoa](https://www.linkedin.com/in/piercenovoa/)
 - Twitter - [@piercenovodev](https://twitter.com/piercenovodev)
