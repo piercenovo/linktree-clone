@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #16222a;
+  height: 100vh;
+  width: 100%;
+  position: relative;
+}
+
+html::-webkit-scrollbar {
+  @apply w-[0.95rem] bg-transparent;
+}
+
+html::-webkit-scrollbar-thumb {
+  @apply rounded-lg border-[3px] border-solid border-transparent bg-[#606060] hover:bg-[#909090] bg-clip-content;
+}
+
+html::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}

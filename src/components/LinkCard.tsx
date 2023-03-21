@@ -1,6 +1,6 @@
 import Image from 'next/image'
 
-export default function LinkCard ({
+export function LinkCard ({
   href,
   title,
   image
