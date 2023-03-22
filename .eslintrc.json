@@ -1,11 +1,12 @@
 {
   "extends": [
-    "./node_modules/standard/eslintrc.json",
-    "next/core-web-vitals"
+    "next/core-web-vitals",
+    "./node_modules/standard/eslintrc.json"
   ],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
   "rules": {
-    "space-before-function-paren": "off",
-    "no-undef": "off",
-    "array-callback-return": "off"
+    "no-var": "off"
   }
 }

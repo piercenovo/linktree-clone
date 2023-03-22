@@ -1,10 +1,11 @@
-import '@/app/globals.css'
+import './globals.css'
 import { Footer } from '@/components/Footer'
-import { Poppins as poppins } from 'next/font/google'
+import { Poppins } from 'next/font/google'
+import React from 'react'
 
-export const font = poppins({
+const font = Poppins({
   subsets: ['latin'],
-  weight: ['400', '500', '600']
+  weight: ['400', '600', '700']
 })
 
 export const metadata = {
@@ -12,7 +13,7 @@ export const metadata = {
   description: "View Pierce Novoa's Linktree. My Portfolio • GitHub (Get All Source Code) • My Spotify. 🚀"
 }
 
-export default function RootLayout({
+export default function RootLayout ({
   children
 }: {
   children: React.ReactNode;

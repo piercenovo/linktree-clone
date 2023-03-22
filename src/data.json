@@ -1,0 +1,35 @@
+{
+  "name": "@piercenovo.dev",
+  "avatar": "https://pbs.twimg.com/profile_images/1621271412643188738/Ykehn38E_400x400.jpg",
+  "links": [
+    {
+      "title": "My Portfolio",
+      "href": "https://www.piercenovo.dev",
+      "image": "https://img.icons8.com/dusk/256/circled-user-male-skin-type-7.png"
+    },
+    {
+      "title": "Github",
+      "href": "https://www.github.com/piercenovo",
+      "image": "https://img.icons8.com/dusk/256/github.png"
+    },
+    {
+      "title": "Spotify",
+      "href": "https://open.spotify.com/user/s2jq4dk2wzz2afmvpudel5dba?si=47805787c6a54540&nd=1",
+      "image": "https://img.icons8.com/dusk/256/spotify.png"
+    }
+  ],
+  "socials": [
+    {
+      "title": "Twitter",
+      "href": "https://www.twitter.com/piercenovodev"
+    },
+    {
+      "title": "Instagram",
+      "href": "https://www.instagram.com/piercenovo.dev"
+    },
+    {
+      "title": "LinkedIn",
+      "href": "https://www.linkedin.com/in/piercenovoa"
+    }
+  ]
+}
