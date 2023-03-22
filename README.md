@@ -53,6 +53,8 @@
   pnpm dev
 ```
 
+- To change the content, edit `/src/data.json`
+
 <!-- CONTACT -->
 ## 🔎 Contact
 
