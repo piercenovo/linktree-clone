@@ -1,4 +1,4 @@
-export function Footer() {
+export function Footer () {
   return (
     <footer className='absolute bottom-0 flex animate-fade-in flex-col gap-6 pb-6 w-full'>
       {/* Only visible for smaller devices */}

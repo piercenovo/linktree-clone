@@ -1,8 +1,8 @@
-import { Data } from '@/app/interface'
+import { Data } from '@/interface.d'
 import Image from 'next/image'
 import React from 'react'
 
-export function Profile({ data }: {data: Data}) {
+export function Profile ({ data }: {data: Data}) {
   return (
     <>
       <Image

@@ -1,7 +1,7 @@
-import { Data, Social } from '@/app/interface'
+import { Data, Social } from '@/interface.d'
 import { InstagramIcon, LinkedinIcon, TwitterIcon } from './Icons'
 
-export function SocialIconList({ data }: {data: Data}) {
+export function SocialIconList ({ data }: {data: Data}) {
   return (
     <div className='flex items-center gap-4 mb-9'>
       {data.socials.map((social: Social) => (
