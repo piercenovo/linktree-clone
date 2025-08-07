@@ -14,7 +14,7 @@ export function LinkCard ({
       href={href}
       target='_blank'
       rel='noopener noreferrer'
-      className='flex items-center p-1 rounded-md w-full hover:scale-105 transition-all ease-in bg-gray-100 mb-4 max-w-2xl'
+      className='flex items-center py-1 px-2 rounded-md w-full hover:scale-[101%] transition-all ease-in bg-gray-100 mb-4 max-w-2xl'
     >
       <div className='flex text-center w-full'>
         <div className='w-12 h-12'>
